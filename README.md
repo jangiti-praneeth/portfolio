@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This is a portfolio website that contains my personal information, my projects, my skills, and my contact information. It is a website that is built using HTML, CSS, and JavaScript. It is a responsive website that can be viewed on different devices such as mobile phones, tablets, and desktops.
+This is a portfolio website that contains my personal information, my projects, my skills, and my contact information. The website is built using HTML, CSS, and JavaScript. It is a responsive website that can be viewed on different devices such as mobile phones, tablets, and desktops.
 
 ## Technologies
 Project is created with:
@@ -17,7 +17,7 @@ Project is created with:
 ## View the website
 To view the website, click on the link below:
 
-https://krish-depani.vercel.app/
+https://jangiti-praneeth.netlify.app/
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
